@@ -21,7 +21,7 @@ DATA_FILE = "monitoring_data.json"
 DUTY_FILE = "duty_data.json"
 
 # Faqat shu guruhda /onduty va /offduty ishlaydi
-DUTY_GROUP = -5225538611
+DUTY_GROUP = -1004366546712
 
 # O'zbekiston vaqti — doim UTC+5, DST yo'q, shuning uchun serverning
 # o'z vaqt zonasidan qat'i nazar to'g'ri natija beradi
